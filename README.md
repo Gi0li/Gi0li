@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Giovanni Oliveira, mas pode chamar apenas de Gio (〜￣▽￣)〜
+# Olá! Eu sou o Gio (〜￣▽￣)〜
+### Bem-vindo(a) ao meu perfil! Um pouco sobre mim abaixo ⬇
+
 - 📖 Cursando Gestão de TI - Centro Universitário Senac 
 - 🎲☁ Estudo atual: Dados e Cloud AWS
 - 👨‍💻Técnico em Desenvolvimento de Sistemas - Etec
+- ☕🎮 Jogador de Valorant e amante de café (sem preconceito, de todos os tipos) ^-^
 
-
-## 🤝Conecte-se comigo !
+## 🤝Conecte-se comigo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/giovannioliver)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511991312950)
